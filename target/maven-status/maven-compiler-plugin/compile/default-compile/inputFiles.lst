@@ -1,0 +1,12 @@
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/interceptors/ApplicationContext.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/entities/Book.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/DemoApplication.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/config/InterceptorsConfig.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/controllers/BookController.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/interceptors/HeadersInterceptor.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/repositories/BookRepositoryInMemory.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/services/BookService.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/services/BookServiceImpl.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/config/SwaggerConfig.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/controllers/UserController.java
+/Users/salah/git/inter/src/main/java/com/springboot/example/demo/repositories/BookRepository.java
